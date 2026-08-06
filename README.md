@@ -1,45 +1,101 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Hi 👋, I'm Abdullah Nasre</h1>
 
-<br />
+<h3 align="center">
+Data Analyst | SQL • Python • Excel • Power BI • PostgreSQL
+</h3>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<p align="center">
+Turning complex data into actionable business insights through analytics, ETL pipelines, and interactive dashboards.
+</p>
 
-**About me**
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:abdallahnassre@gmail.com">Email</a>
+</p>
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+## 🚀 About Me
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+I'm a passionate **Data Analyst** focused on transforming raw data into meaningful business insights using SQL, Python, Excel, and Power BI.
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 📊 Built **3 end-to-end analytics projects** analyzing **700,000+ records**
+- 🏢 Specialized in **Customer Analytics, Supply Chain Analytics, and Business Intelligence**
+- 🛠 Experienced in **ETL pipelines, data cleaning, data modeling, dashboard development, and KPI reporting**
+- 📚 Currently improving my expertise in advanced analytics and real-world business problem solving.
+- 💬 Ask me about **SQL, Python, Excel, Power BI, PostgreSQL, or Data Analytics**
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
+## 🛠 Tech Stack
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="left">
 
-#### Top Repositories
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
 
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+**Languages & Tools**
 
-<br />
-<br />
+- SQL
+- PostgreSQL
+- Python (Pandas, NumPy, SQLAlchemy)
+- Excel
+- Power Query
+- Power Pivot
+- Power BI
+- DAX
+- Git
+- GitHub
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+---
+
+## 📌 Featured Projects
+
+### 📦 Supply Chain & Inventory Analytics Dashboard
+
+- End-to-end Supply Chain Analytics Solution
+- 180K+ Orders
+- 21K+ Customers
+- 5K+ Products
+- SQL • PostgreSQL • Power BI • DAX
+
+### 🛒 Customer Churn & Customer Lifetime Value Analytics
+
+- RFM Segmentation
+- Customer Lifetime Value (CLV)
+- Churn Prediction
+- Python • PostgreSQL • Power BI
+
+### 📈 Customer Analytics Dashboard
+
+- 452K+ Transactions
+- Interactive Excel Dashboard
+- Power Query
+- Power Pivot
+- DAX
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="mailto:abdallahnassre@gmail.com">abdallahnassre@gmail.com</a>
+
+</p>
