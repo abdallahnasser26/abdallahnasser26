@@ -29,10 +29,6 @@ My projects focus on solving real business challenges across customer analytics,
 ## 🛠 Tech Stack
 
 <p align="left">
-
-## 🛠 Tech Stack
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgresql" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" height="48" />
 </p>
