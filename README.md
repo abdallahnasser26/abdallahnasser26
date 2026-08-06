@@ -29,7 +29,7 @@ My projects focus on solving real business challenges across customer analytics,
 ## 🛠 SKILLS
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Advanced_SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
