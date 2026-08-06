@@ -45,18 +45,24 @@ My projects focus on solving real business challenges across customer analytics,
 - Power BI
 - DAX
 
-### Core Expertise
+##Core Analytics & Data Engineering
 
-- ETL Pipeline Development
-- Data Modeling
-- Advanced SQL Query Optimization
-- KPI Design & Development
-- Business Intelligence Solutions
-- Executive Dashboard Development
-- RFM Segmentation
-- Customer Lifetime Value (CLV) Analysis
-- Churn Analytics
-- Reporting Automation
+ETL Pipeline Development
+Data Modeling
+Advanced SQL Query Optimization
+
+##Business Intelligence & Reporting
+
+Business Intelligence Solutions
+Executive Dashboard Development
+KPI Design & Development
+Reporting Automation
+
+##Customer Analytics
+
+RFM Segmentation
+Customer Lifetime Value (CLV) Analysis
+Churn Analytics
 
 ## 📌 Featured Projects
 
