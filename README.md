@@ -29,13 +29,6 @@ My projects focus on solving real business challenges across customer analytics,
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" height="48" />
-  <img src="https://raw.githubusercontent.com/abdallahnasser26/abdallahnasser26/main/icons8-power-bi-2021.svg" height="48" alt="Power BI"/>
-</p>
-## 🛠 Tech Stack
-
-<p align="left">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
