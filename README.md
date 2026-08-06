@@ -26,19 +26,18 @@ My projects focus on solving real business challenges across customer analytics,
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 SKILLS
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### Analytics & BI
+### Technical Skills 
 
-- SQL
-- PostgreSQL
+- Advanced SQL
 - Python (Pandas, NumPy, SQLAlchemy)
 - Excel
 - Power Query
@@ -46,7 +45,18 @@ My projects focus on solving real business challenges across customer analytics,
 - Power BI
 - DAX
 
----
+### Core Expertise
+
+- ETL Pipeline Development
+- Data Modeling
+- Advanced SQL Query Optimization
+- KPI Design & Development
+- Business Intelligence Solutions
+- Executive Dashboard Development
+- RFM Segmentation
+- Customer Lifetime Value (CLV) Analysis
+- Churn Analytics
+- Reporting Automation
 
 ## 📌 Featured Projects
 
