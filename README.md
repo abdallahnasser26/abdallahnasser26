@@ -37,6 +37,8 @@ My projects focus on solving real business challenges across customer analytics,
   <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" height="48" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="48" />
 </p>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" height="48" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="48" />
 
 **Analytics & BI**
 
