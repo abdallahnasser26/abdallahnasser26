@@ -1,3 +1,53 @@
+<h1 align="center">Hi 👋, I'm Abdullah Nasre</h1>
+
+<h3 align="center">
+Data Analyst | SQL • Python • Excel • Power BI
+</h3>
+
+<p align="center">
+Turning complex data into actionable business insights through analytics, ETL pipelines, and interactive dashboards.
+</p>
+
+<p align="center">
+<a href="https://github.com/abdallahnasser26">GitHub</a> •
+<a href="https://www.linkedin.com/in/abdallah-naser-75345a327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqASWKWlsT%2Besa1Rwo5Btsg%3D%3D">LinkedIn</a> •
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdallahnassre@gmail.com">Email</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Data Analyst passionate about transforming complex business data into actionable insights that support strategic decision-making.
+
+I design end-to-end analytics solutions covering the entire data lifecycle—from data extraction and ETL to data modeling, KPI development, dashboard design, and business recommendations.
+
+My projects focus on solving real business challenges across customer analytics, supply chain, inventory optimization, reporting automation, and business intelligence using SQL, Python, Excel, PostgreSQL, and Power BI.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### Analytics & BI
+
+- SQL
+- PostgreSQL
+- Python (Pandas, NumPy, SQLAlchemy)
+- Excel
+- Power Query
+- Power Pivot
+- Power BI
+- DAX
+
+---
+
 ## 📌 Featured Projects
 
 ### 📊 Customer Analytics Dashboard (Excel)
@@ -14,10 +64,32 @@ Executive Business Intelligence solution built using PostgreSQL and Power BI for
 
 ### 🛒 Customer Churn & Customer Lifetime Value Analytics
 
-End-to-end customer analytics solution combining ETL, PostgreSQL, RFM segmentation, Machine Learning, churn prediction, CLV analysis, and interactive Power BI dashboards for retention strategy and revenue optimization.
+End-to-end customer analytics solution combining ETL, PostgreSQL, RFM segmentation, Machine Learning, churn prediction, Customer Lifetime Value (CLV) analysis, and interactive Power BI dashboards for retention strategy and revenue optimization.
 
 ---
 
 ### ⚙️ Reporting Collection & Analysis System
 
 Automated reporting pipeline that collects data through Excel, processes it using Python, stores it in PostgreSQL, and delivers interactive Power BI dashboards through a fully automated ETL workflow.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdallahnasser26&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahnasser26&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/abdallahnasser26">GitHub</a> •
+<a href="https://www.linkedin.com/in/abdallah-naser-75345a327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqASWKWlsT%2Besa1Rwo5Btsg%3D%3D">LinkedIn</a> •
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdallahnassre@gmail.com">Email</a>
+</p>
