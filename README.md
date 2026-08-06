@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Nasre</h1>
 
 <h3 align="center">
-Data Analyst | SQL • Python • Excel • Power BI 
+Data Analyst | SQL • Python • Excel • Power BI
 </h3>
 
 <p align="center">
@@ -18,13 +18,11 @@ Turning complex data into actionable business insights through analytics, ETL pi
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyst** focused on transforming raw data into meaningful business insights using SQL, Python, Excel, and Power BI.
+I'm a Data Analyst passionate about transforming complex business data into actionable insights that support strategic decision-making.
 
-- 📊 Built **3 end-to-end analytics projects** analyzing **700,000+ records**
-- 🏢 Specialized in **Customer Analytics, Supply Chain Analytics, and Business Intelligence**
-- 🛠 Experienced in **ETL pipelines, data cleaning, data modeling, dashboard development, and KPI reporting**
-- 📚 Currently improving my expertise in advanced analytics and real-world business problem solving.
-- 💬 Ask me about **SQL, Python, Excel, Power BI, PostgreSQL, or Data Analytics**
+I design end-to-end analytics solutions covering the entire data lifecycle—from data extraction and ETL to data modeling, KPI development, dashboard design, and business recommendations.
+
+My projects focus on solving real business challenges across customer analytics, supply chain, inventory optimization, reporting automation, and business intelligence using SQL, Python, Excel, PostgreSQL, and Power BI.
 
 ---
 
@@ -32,11 +30,15 @@ I'm a passionate **Data Analyst** focused on transforming raw data into meaningf
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,postgresql" />
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
-**Languages & Tools**
+**Analytics & BI**
 
 - SQL
 - PostgreSQL
@@ -46,35 +48,32 @@ I'm a passionate **Data Analyst** focused on transforming raw data into meaningf
 - Power Pivot
 - Power BI
 - DAX
-- Git
-- GitHub
 
 ---
 
 ## 📌 Featured Projects
 
-### 📦 Supply Chain & Inventory Analytics Dashboard
+### 📦 Supply Chain & Inventory Analytics
 
-- End-to-end Supply Chain Analytics Solution
-- 180K+ Orders
-- 21K+ Customers
-- 5K+ Products
-- SQL • PostgreSQL • Power BI • DAX
+Executive Business Intelligence solution built using PostgreSQL and Power BI for analyzing revenue, profitability, inventory efficiency, customer behavior, logistics performance, and operational KPIs across more than **180K orders** and **21K customers**. :contentReference[oaicite:2]{index=2}
+
+---
 
 ### 🛒 Customer Churn & Customer Lifetime Value Analytics
 
-- RFM Segmentation
-- Customer Lifetime Value (CLV)
-- Churn Prediction
-- Python • PostgreSQL • Power BI
+End-to-end customer analytics solution combining ETL, PostgreSQL, RFM segmentation, Machine Learning, churn prediction, CLV analysis, and interactive Power BI dashboards for retention strategy and revenue optimization. :contentReference[oaicite:3]{index=3}
 
-### 📈 Customer Analytics Dashboard
+---
 
-- 452K+ Transactions
-- Interactive Excel Dashboard
-- Power Query
-- Power Pivot
-- DAX
+### 📊 Customer Analytics Dashboard (Excel)
+
+Executive Excel dashboard built using Power Query, Power Pivot, and DAX to analyze **452K+ transactions**, **$29M revenue**, customer performance, regional profitability, and executive KPIs through an automated analytics workflow. :contentReference[oaicite:4]{index=4}
+
+---
+
+### ⚙️ Reporting Collection & Analysis System
+
+Automated reporting pipeline that collects data through Excel, processes it using Python, stores it in PostgreSQL, and delivers interactive Power BI dashboards through a fully automated ETL workflow. :contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -82,9 +81,9 @@ I'm a passionate **Data Analyst** focused on transforming raw data into meaningf
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdallahnasser26&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahnasser26&layout=compact&hide_border=true"/>
 
 </p>
 
@@ -94,8 +93,10 @@ I'm a passionate **Data Analyst** focused on transforming raw data into meaningf
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://www.linkedin.com/in/abdallah-naser-75345a327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqASWKWlsT%2Besa1Rwo5Btsg%3D%3D">LinkedIn</a> •
+
+<a href="https://github.com/abdallahnasser26">GitHub</a> •
+
 <a href="mailto:abdallahnassre@gmail.com">abdallahnassre@gmail.com</a>
 
 </p>
