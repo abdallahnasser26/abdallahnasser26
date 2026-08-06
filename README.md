@@ -64,7 +64,7 @@ My projects focus on solving real business challenges across customer analytics,
 - Customer Lifetime Value (CLV) Analysis
 - Churn Analytics
 
-## 📌 Featured Projects
+## 📌 Experience
 
 ### 📊 Customer Analytics Dashboard (Excel)
 
