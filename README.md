@@ -10,7 +10,7 @@ Turning complex data into actionable business insights through analytics, ETL pi
 
 <p align="center">
 <a href="https://github.com/abdallahnasser26">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/abdallah-naser-75345a327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqASWKWlsT%2Besa1Rwo5Btsg%3D%3D">LinkedIn</a> •
 <a href="mailto:abdallahnassre@gmail.com">Email</a>
 </p>
 
