@@ -30,11 +30,12 @@ My projects focus on solving real business challenges across customer analytics,
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql" />
+## 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgresql" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" height="48" />
+</p>
 
 </p>
 
