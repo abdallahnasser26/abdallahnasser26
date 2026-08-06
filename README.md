@@ -31,6 +31,7 @@ My projects focus on solving real business challenges across customer analytics,
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgresql" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi" height="48" />
+  <img src="https://raw.githubusercontent.com/abdallahnasser26/abdallahnasser26/main/icons8-power-bi-2021.svg" height="48" alt="Power BI"/>
 </p>
 
   **Analytics & BI**
