@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Nasre</h1>
 
 <h3 align="center">
-Data Analyst | SQL • Python • Excel • Power BI • PostgreSQL
+Data Analyst | SQL • Python • Excel • Power BI 
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Turning complex data into actionable business insights through analytics, ETL pi
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="(https://github.com/abdallahnasser26)">GitHub</a> •
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
 <a href="mailto:abdallahnassre@gmail.com">Email</a>
 </p>
